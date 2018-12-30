@@ -9,6 +9,5 @@ inner join
 on
 	g_tbl.blocking_key=a_tbl.blocking_key;
 
-create table actual  as select keys from frequency where freq < 3;
-
-
+create table frequency as select (g_keys || '~' || a_keys) as keys,count(1) as freq from joined group by keys;
+create table actual as select keys from frequency where freq < 3;

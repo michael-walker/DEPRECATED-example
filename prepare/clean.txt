@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS amazon;
+DROP TABLE IF EXISTS google;
+DROP TABLE IF EXISTS expected;
+DROP TABLE IF EXISTS amazon_cleaned;
+DROP TABLE IF EXISTS amazon_tokens;
+DROP TABLE IF EXISTS google_cleaned;
+DROP TABLE IF EXISTS google_tokens;
+DROP TABLE IF EXISTS joined;
+DROP TABLE IF EXISTS frequency;
+DROP TABLE IF EXISTS actual;
+DROP TABLE IF EXISTS false_negatives;
+DROP TABLE IF EXISTS false_positives;
+DROP TABLE IF EXISTS true_positives;
+DROP TABLE IF EXISTS counts;
+DROP TABLE IF EXISTS metrics;

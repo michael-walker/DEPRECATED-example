@@ -1,8 +1,8 @@
 CREATE TABLE google(
-   id           VARCHAR(10) NOT NULL
-  ,title        VARCHAR(144) NOT NULL
+   id           VARCHAR(100) NOT NULL
+  ,title        VARCHAR(300) NOT NULL
   ,description  VARCHAR(19263)
-  ,manufacturer VARCHAR(45) NOT NULL
+  ,manufacturer VARCHAR(45)
   ,price        NUMERIC(9,2) NOT NULL
 );
 INSERT INTO google(id,title,description,manufacturer,price) VALUES

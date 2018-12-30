@@ -103,7 +103,7 @@ INSERT INTO expected(amazon,google) VALUES
 ,('b000j4k804','http://www.google.com/base/feeds/snippets/18411875162562199123')
 ,('b00008mopv','http://www.google.com/base/feeds/snippets/16621550764866327052')
 ,('b000nwsclo','http://www.google.com/base/feeds/snippets/18404168006486239466');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000ek6ekq','http://www.google.com/base/feeds/snippets/18404187604346548446')
 ,('b0008ews9o','http://www.google.com/base/feeds/snippets/18354430457145981051')
 ,('b0009y6f0g','http://www.google.com/base/feeds/snippets/18404319188505755669')
@@ -204,7 +204,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b000fzxiou','http://www.google.com/base/feeds/snippets/12642359421626863460')
 ,('b0002h6x34','http://www.google.com/base/feeds/snippets/4823291609006887387')
 ,('b0001gjc52','http://www.google.com/base/feeds/snippets/13642535173107321529');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000bcgfe2','http://www.google.com/base/feeds/snippets/6801077797933253662')
 ,('b000e8jl7q','http://www.google.com/base/feeds/snippets/4682448981783641744')
 ,('b000lu89xy','http://www.google.com/base/feeds/snippets/13831527178214062853')
@@ -305,7 +305,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b000gwkol2','http://www.google.com/base/feeds/snippets/18376303388125635572')
 ,('b000nvkyse','http://www.google.com/base/feeds/snippets/1492097838915695810')
 ,('b00006rgnx','http://www.google.com/base/feeds/snippets/6732814497585724663');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000qctqne','http://www.google.com/base/feeds/snippets/18375765231096501819')
 ,('b000bnkbdm','http://www.google.com/base/feeds/snippets/18374143831267894200')
 ,('b000i84dts','http://www.google.com/base/feeds/snippets/18373254644070862441')
@@ -406,7 +406,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b000cc22ys','http://www.google.com/base/feeds/snippets/13711624573601150378')
 ,('b000h14rr4','http://www.google.com/base/feeds/snippets/12837108039205076533')
 ,('b000h14rr4','http://www.google.com/base/feeds/snippets/10426833843056008758');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000hcvr1m','http://www.google.com/base/feeds/snippets/12219649046294237633')
 ,('b000k2nkua','http://www.google.com/base/feeds/snippets/8251934342990013076')
 ,('b000hbxjve','http://www.google.com/base/feeds/snippets/17956249157120493393')
@@ -507,7 +507,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b000gcd73y','http://www.google.com/base/feeds/snippets/18135578158357182921')
 ,('b000jx5ppi','http://www.google.com/base/feeds/snippets/18113699401844993243')
 ,('b000b676fa','http://www.google.com/base/feeds/snippets/17982318849719467269');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000bh3dbk','http://www.google.com/base/feeds/snippets/18141440313618559567')
 ,('b0002iwyke','http://www.google.com/base/feeds/snippets/10827782844634609439')
 ,('b000egidpo','http://www.google.com/base/feeds/snippets/18000939542340526750')
@@ -608,7 +608,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b000edgo2q','http://www.google.com/base/feeds/snippets/7147648211015076337')
 ,('b0002itt84','http://www.google.com/base/feeds/snippets/5505866551596188643')
 ,('b000e6mjig','http://www.google.com/base/feeds/snippets/4549566074000049896');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b0000c7gep','http://www.google.com/base/feeds/snippets/18343959075631403504')
 ,('b0000c7gep','http://www.google.com/base/feeds/snippets/18433413888105089937')
 ,('b000v05f4k','http://www.google.com/base/feeds/snippets/18304228419567401310')
@@ -709,7 +709,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b000l1phg0','http://www.google.com/base/feeds/snippets/18394332776181186072')
 ,('b000l1phg0','http://www.google.com/base/feeds/snippets/11954719051240282085')
 ,('b000a7q6n8','http://www.google.com/base/feeds/snippets/13561687450780175373');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000a7q6n8','http://www.google.com/base/feeds/snippets/9575830162604297862')
 ,('b000g3mer8','http://www.google.com/base/feeds/snippets/9342175169264415955')
 ,('b000g3mer8','http://www.google.com/base/feeds/snippets/13255609368261584070')
@@ -810,7 +810,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b000hi1i6u','http://www.google.com/base/feeds/snippets/3752772644614152917')
 ,('b000jiqlxi','http://www.google.com/base/feeds/snippets/18151952927255406461')
 ,('b000om7diq','http://www.google.com/base/feeds/snippets/17708766593513600591');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000om7diq','http://www.google.com/base/feeds/snippets/5216140459207502478')
 ,('b000om7diq','http://www.google.com/base/feeds/snippets/11294551601294188336')
 ,('b000o3bge2','http://www.google.com/base/feeds/snippets/3594701920411099396')
@@ -911,7 +911,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b0009suw5q','http://www.google.com/base/feeds/snippets/712876185653102576')
 ,('b000in4uak','http://www.google.com/base/feeds/snippets/12243674671451624208')
 ,('b0009yx9be','http://www.google.com/base/feeds/snippets/1021042895134770712');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b00002s5ig','http://www.google.com/base/feeds/snippets/10121034673222484873')
 ,('b00002s5ig','http://www.google.com/base/feeds/snippets/8376577004489658408')
 ,('b00002s5ig','http://www.google.com/base/feeds/snippets/4015258116571466944')
@@ -1012,7 +1012,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b00006iqth','http://www.google.com/base/feeds/snippets/13286819633533674312')
 ,('b000he9psc','http://www.google.com/base/feeds/snippets/14520556770161082452')
 ,('b000pgvk5s','http://www.google.com/base/feeds/snippets/3286136250930686353');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000pgvk5s','http://www.google.com/base/feeds/snippets/1872945109493928217')
 ,('b0002x9a1u','http://www.google.com/base/feeds/snippets/13871525141591734359')
 ,('b000h3lza4','http://www.google.com/base/feeds/snippets/13919947739364726744')
@@ -1113,7 +1113,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b000tme1ke','http://www.google.com/base/feeds/snippets/16965466141678042659')
 ,('b000lwfbem','http://www.google.com/base/feeds/snippets/6614738792097944479')
 ,('b000lwfbem','http://www.google.com/base/feeds/snippets/18426249152153175425');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000lp6jky','http://www.google.com/base/feeds/snippets/908293428104495266')
 ,('b000bp8alk','http://www.google.com/base/feeds/snippets/11465786913875583817')
 ,('b000edjjhs','http://www.google.com/base/feeds/snippets/17033785854482020785')
@@ -1214,7 +1214,7 @@ INSERT INTO results(amazon,google) VALUES
 ,('b00006sijq','http://www.google.com/base/feeds/snippets/4886380100862625819')
 ,('b00006sijq','http://www.google.com/base/feeds/snippets/10706956263145211695')
 ,('b000o27rgy','http://www.google.com/base/feeds/snippets/3109934347512360013');
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b00009k780','http://www.google.com/base/feeds/snippets/17261970023689791051')
 ,('b00006jo4g','http://www.google.com/base/feeds/snippets/16080101328048625984')
 ,('b00006jo4g','http://www.google.com/base/feeds/snippets/17983103067016649420')
