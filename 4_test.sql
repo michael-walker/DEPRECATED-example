@@ -43,3 +43,5 @@ select
 				counts
 			) as tbl_a
 ) as tbl_b;
+
+select * from metrics;
