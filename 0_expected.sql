@@ -1,8 +1,8 @@
-CREATE TABLE results(
+CREATE TABLE expected(
    amazon     VARCHAR(10) NOT NULL
   ,google VARCHAR(62) NOT NULL
 );
-INSERT INTO results(amazon,google) VALUES
+INSERT INTO expected(amazon,google) VALUES
  ('b000jz4hqo','http://www.google.com/base/feeds/snippets/18441480711193821750')
 ,('b00004tkvy','http://www.google.com/base/feeds/snippets/18441110047404795849')
 ,('b000g80lqo','http://www.google.com/base/feeds/snippets/18441188461196475272')
